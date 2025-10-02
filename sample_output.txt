@@ -1,0 +1,6 @@
+Expected Results:
+
+- student_contacts → shows only student names and emails.
+- student_courses → shows students with their enrolled courses.
+- attendance_summary → shows total and present days for each student.
+- After DROP VIEW student_contacts, querying it will fail.
